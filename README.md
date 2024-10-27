@@ -10,8 +10,6 @@
 
 ## 插件预览 [![](https://img.shields.io/badge/-固件插件及功能预览-FFFFFF.svg)](#插件预览-)
 
-![streamlit](./1.mp4)
-
 ![streamlit](./2.JPG)
 </details>
 
