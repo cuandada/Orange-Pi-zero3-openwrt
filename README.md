@@ -5,8 +5,8 @@
 
 
 ## 项目说明 [![](https://img.shields.io/badge/-项目基本介绍-FFFFFF.svg)](#项目说明-)
-- wifi 名称：`cuan` wifi 密码：`123456789`
-- 管理网址：`192.168.1.2` 用户：`root` 密码：`Kendal`
+- wifi名称：cuan wifi密码：123456789
+- 管理网址：192.168.1.2 用户：root 密码：Kendal
 
 ## 插件预览 [![](https://img.shields.io/badge/-固件插件及功能预览-FFFFFF.svg)](#插件预览-)
 
